@@ -1,0 +1,15 @@
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\bin\Debug\netstandard2.0\AppCaraOuCoroa.deps.json
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\bin\Debug\netstandard2.0\AppCaraOuCoroa.dll
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\bin\Debug\netstandard2.0\ref\AppCaraOuCoroa.dll
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\bin\Debug\netstandard2.0\AppCaraOuCoroa.pdb
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\obj\Debug\netstandard2.0\AppCaraOuCoroa.csproj.AssemblyReference.cache
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\obj\Debug\netstandard2.0\AppCaraOuCoroa.AssemblyInfoInputs.cache
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\obj\Debug\netstandard2.0\AppCaraOuCoroa.AssemblyInfo.cs
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\obj\Debug\netstandard2.0\AppCaraOuCoroa.csproj.CoreCompileInputs.cache
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\obj\Debug\netstandard2.0\AppCaraOuCoroa.dll
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\obj\Debug\netstandard2.0\ref\AppCaraOuCoroa.dll
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\obj\Debug\netstandard2.0\AppCaraOuCoroa.pdb
+C:\Users\Yara\source\repos\AppCaraOuCoroa\AppCaraOuCoroa\AppCaraOuCoroa\obj\Debug\netstandard2.0\PageJogo.xaml.g.cs
